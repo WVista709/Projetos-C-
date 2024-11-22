@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\meu\\Massani\\ESTUDOS DE PROGRAMAÇÃO\\PROGRAMAS EM C C++ C# HTML PYTHON GML2\\CURSO ALGORITMOS E LÓGICA\\Linguagem C#\\Atividade\\Solução de problema crescente\\Solução de problema crescente.csproj": {}
+  },
+  "projects": {
+    "C:\\meu\\Massani\\ESTUDOS DE PROGRAMAÇÃO\\PROGRAMAS EM C C++ C# HTML PYTHON GML2\\CURSO ALGORITMOS E LÓGICA\\Linguagem C#\\Atividade\\Solução de problema crescente\\Solução de problema crescente.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\meu\\Massani\\ESTUDOS DE PROGRAMAÇÃO\\PROGRAMAS EM C C++ C# HTML PYTHON GML2\\CURSO ALGORITMOS E LÓGICA\\Linguagem C#\\Atividade\\Solução de problema crescente\\Solução de problema crescente.csproj",
+        "projectName": "Solução de problema crescente",
+        "projectPath": "C:\\meu\\Massani\\ESTUDOS DE PROGRAMAÇÃO\\PROGRAMAS EM C C++ C# HTML PYTHON GML2\\CURSO ALGORITMOS E LÓGICA\\Linguagem C#\\Atividade\\Solução de problema crescente\\Solução de problema crescente.csproj",
+        "packagesPath": "C:\\Users\\Massani\\.nuget\\packages\\",
+        "outputPath": "C:\\meu\\Massani\\ESTUDOS DE PROGRAMAÇÃO\\PROGRAMAS EM C C++ C# HTML PYTHON GML2\\CURSO ALGORITMOS E LÓGICA\\Linguagem C#\\Atividade\\Solução de problema crescente\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Massani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

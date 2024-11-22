@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Solução_de_problema_crescente
+build_property.ProjectDir = C:\meu\Massani\ESTUDOS\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

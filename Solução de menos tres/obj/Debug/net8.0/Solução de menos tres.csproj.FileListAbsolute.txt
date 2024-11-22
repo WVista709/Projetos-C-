@@ -1,0 +1,14 @@
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\Solução de menos tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\Solução de menos tres.AssemblyInfoInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\Solução de menos tres.AssemblyInfo.cs
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\Solução de menos tres.csproj.CoreCompileInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\bin\Debug\net8.0\Solução de menos tres.exe
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\bin\Debug\net8.0\Solução de menos tres.deps.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\bin\Debug\net8.0\Solução de menos tres.runtimeconfig.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\bin\Debug\net8.0\Solução de menos tres.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\bin\Debug\net8.0\Solução de menos tres.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\Solução de menos tres.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\refint\Solução de menos tres.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\Solução de menos tres.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\Solução de menos tres.genruntimeconfig.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de menos tres\obj\Debug\net8.0\ref\Solução de menos tres.dll

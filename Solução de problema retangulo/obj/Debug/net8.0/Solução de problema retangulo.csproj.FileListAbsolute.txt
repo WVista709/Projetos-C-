@@ -1,0 +1,14 @@
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\Solução de problema retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\Solução de problema retangulo.AssemblyInfoInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\Solução de problema retangulo.AssemblyInfo.cs
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\Solução de problema retangulo.csproj.CoreCompileInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\bin\Debug\net8.0\Solução de problema retangulo.exe
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\bin\Debug\net8.0\Solução de problema retangulo.deps.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\bin\Debug\net8.0\Solução de problema retangulo.runtimeconfig.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\bin\Debug\net8.0\Solução de problema retangulo.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\bin\Debug\net8.0\Solução de problema retangulo.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\Solução de problema retangulo.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\refint\Solução de problema retangulo.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\Solução de problema retangulo.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\Solução de problema retangulo.genruntimeconfig.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema retangulo\obj\Debug\net8.0\ref\Solução de problema retangulo.dll

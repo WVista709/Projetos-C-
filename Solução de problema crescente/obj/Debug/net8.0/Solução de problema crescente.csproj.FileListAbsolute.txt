@@ -1,0 +1,28 @@
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.AssemblyInfoInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.AssemblyInfo.cs
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.csproj.CoreCompileInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.exe
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.deps.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.runtimeconfig.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\refint\Solução de problema crescente.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.genruntimeconfig.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\ref\Solução de problema crescente.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.exe
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.deps.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.runtimeconfig.json
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\bin\Debug\net8.0\Solução de problema crescente.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.AssemblyInfoInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.AssemblyInfo.cs
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.csproj.CoreCompileInputs.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\refint\Solução de problema crescente.dll
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.pdb
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\Solução de problema crescente.genruntimeconfig.cache
+C:\meu\Massani\ESTUDOS DE PROGRAMAÇÃO\PROGRAMAS EM C C++ C# HTML PYTHON GML2\CURSO ALGORITMOS E LÓGICA\Linguagem C#\Atividade\Solução de problema crescente\obj\Debug\net8.0\ref\Solução de problema crescente.dll
